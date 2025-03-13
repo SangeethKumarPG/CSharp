@@ -1,0 +1,14 @@
+/Users/sangeethkumarpg/Desktop/Development/dotnet/Addition/bin/Debug/net8.0/Addition
+/Users/sangeethkumarpg/Desktop/Development/dotnet/Addition/bin/Debug/net8.0/Addition.deps.json
+/Users/sangeethkumarpg/Desktop/Development/dotnet/Addition/bin/Debug/net8.0/Addition.runtimeconfig.json
+/Users/sangeethkumarpg/Desktop/Development/dotnet/Addition/bin/Debug/net8.0/Addition.dll
+/Users/sangeethkumarpg/Desktop/Development/dotnet/Addition/bin/Debug/net8.0/Addition.pdb
+/Users/sangeethkumarpg/Desktop/Development/dotnet/Addition/obj/Debug/net8.0/Addition.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sangeethkumarpg/Desktop/Development/dotnet/Addition/obj/Debug/net8.0/Addition.AssemblyInfoInputs.cache
+/Users/sangeethkumarpg/Desktop/Development/dotnet/Addition/obj/Debug/net8.0/Addition.AssemblyInfo.cs
+/Users/sangeethkumarpg/Desktop/Development/dotnet/Addition/obj/Debug/net8.0/Addition.csproj.CoreCompileInputs.cache
+/Users/sangeethkumarpg/Desktop/Development/dotnet/Addition/obj/Debug/net8.0/Addition.dll
+/Users/sangeethkumarpg/Desktop/Development/dotnet/Addition/obj/Debug/net8.0/refint/Addition.dll
+/Users/sangeethkumarpg/Desktop/Development/dotnet/Addition/obj/Debug/net8.0/Addition.pdb
+/Users/sangeethkumarpg/Desktop/Development/dotnet/Addition/obj/Debug/net8.0/Addition.genruntimeconfig.cache
+/Users/sangeethkumarpg/Desktop/Development/dotnet/Addition/obj/Debug/net8.0/ref/Addition.dll

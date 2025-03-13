@@ -1,0 +1,14 @@
+/Users/sangeethkumarpg/Desktop/Development/dotnet/Demo/bin/Debug/net8.0/Demo
+/Users/sangeethkumarpg/Desktop/Development/dotnet/Demo/bin/Debug/net8.0/Demo.deps.json
+/Users/sangeethkumarpg/Desktop/Development/dotnet/Demo/bin/Debug/net8.0/Demo.runtimeconfig.json
+/Users/sangeethkumarpg/Desktop/Development/dotnet/Demo/bin/Debug/net8.0/Demo.dll
+/Users/sangeethkumarpg/Desktop/Development/dotnet/Demo/bin/Debug/net8.0/Demo.pdb
+/Users/sangeethkumarpg/Desktop/Development/dotnet/Demo/obj/Debug/net8.0/Demo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sangeethkumarpg/Desktop/Development/dotnet/Demo/obj/Debug/net8.0/Demo.AssemblyInfoInputs.cache
+/Users/sangeethkumarpg/Desktop/Development/dotnet/Demo/obj/Debug/net8.0/Demo.AssemblyInfo.cs
+/Users/sangeethkumarpg/Desktop/Development/dotnet/Demo/obj/Debug/net8.0/Demo.csproj.CoreCompileInputs.cache
+/Users/sangeethkumarpg/Desktop/Development/dotnet/Demo/obj/Debug/net8.0/Demo.dll
+/Users/sangeethkumarpg/Desktop/Development/dotnet/Demo/obj/Debug/net8.0/refint/Demo.dll
+/Users/sangeethkumarpg/Desktop/Development/dotnet/Demo/obj/Debug/net8.0/Demo.pdb
+/Users/sangeethkumarpg/Desktop/Development/dotnet/Demo/obj/Debug/net8.0/Demo.genruntimeconfig.cache
+/Users/sangeethkumarpg/Desktop/Development/dotnet/Demo/obj/Debug/net8.0/ref/Demo.dll
